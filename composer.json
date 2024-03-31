@@ -1,0 +1,24 @@
+{
+    "name": "blocksframework/wiki",
+    "description": "Wiki functionality build using Blocks PHP framework",
+    "license": "MIT",
+    "keywords": [
+        "blocks",
+        "PHP framework",
+        "wiki"
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blocks\\Wiki\\":"src/class"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen Stephenson",
+            "email": "stephenson.inbox@gmail.com"
+        }
+    ]
+}

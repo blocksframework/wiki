@@ -1,2 +1,3 @@
 # wiki
-Wiki functionality of the Blocks PHP framework
+
+Wiki functionality build using Blocks PHP framework
