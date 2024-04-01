@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Blocks\\Wiki\\":"src/class"
+            "Blocks\\Wiki\\": "src/class"
         }
     },
     "authors": [
